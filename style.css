@@ -8,7 +8,7 @@
 .navbar {
     height: 60px;
     background-color: #0f110f;
-    color: white;
+    color: yellow;
     display: flex;
     align-items: center;
     justify-content: space-evenly;
